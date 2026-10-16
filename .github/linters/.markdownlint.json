@@ -26,7 +26,9 @@
       "dockerfile",
       "ini",
       "typescript",
-      "http"
+      "http",
+      "javascript",
+      "java"
     ],
     "language_only": true
   },
